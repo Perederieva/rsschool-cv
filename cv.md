@@ -4,7 +4,7 @@
 2. Phone: +38(050)-638-09-24,
    Skype: Alin4ik741,
    GitHub: @Perederieva
-3. I'm working as HTML coder and want to continue to develop in this direction. In addition to work, I study at home, read the latest news in IT, learn JS. I don't like to stand still, I have a desire to develop all the time. My goal is to become a front-end developer.
+3. I'm working as HTML coder and want to continue to develop in this direction. In addition to work, I study at home, read the latest news in IT, learn JS. I don't like to stand still, I have a desire to develop all the time. My purpose is to become a front-end developer.
 4. HTML, CSS, JS (basic), PHP (basic), JQuery, CMS Wordpress, Git.
 5. Code examples (LATEST)
 6. I've worked as HTML coder for 8 months. My projects: http://chestnyj-remont-kvartir.ru/ , http://kuhnyi-na-zakaz.ru/. 
